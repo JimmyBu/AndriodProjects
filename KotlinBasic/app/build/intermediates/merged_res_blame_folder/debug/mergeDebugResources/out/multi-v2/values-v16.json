@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jimmy.kotlinbasic.app-mergeDebugResources-30:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jimmy\\.gradle\\caches\\8.9\\transforms\\b187a48b6f1ee17b3380343c4429b285\\transformed\\appcompat-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jimmy.kotlinbasic.app-mergeDebugResources-30:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jimmy\\.gradle\\caches\\8.9\\transforms\\b187a48b6f1ee17b3380343c4429b285\\transformed\\appcompat-1.7.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

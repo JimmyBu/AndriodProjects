@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jimmy.rockpaperscissors.app-mergeDebugResources-30:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jimmy\\.gradle\\caches\\8.9\\transforms\\b279b55b1a8683c4ff579b6cc63486f0\\transformed\\material-1.12.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}
