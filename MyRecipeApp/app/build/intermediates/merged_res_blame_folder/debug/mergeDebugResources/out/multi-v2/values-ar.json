@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.jimmy.myrecipeapp-mergeDebugResources-46:/values-ar/values-ar.xml",
+            "outputFile": "com.jimmy.myrecipeapp-mergeDebugResources-51:/values-ar/values-ar.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Jimmy\\.gradle\\caches\\8.9\\transforms\\43bc1e8b3c58d47e355241d5f5ee09eb\\transformed\\foundation-release\\res\\values-ar\\values-ar.xml",

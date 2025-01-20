@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.jimmy.myrecipeapp-mergeDebugResources-46:/values-te/values-te.xml",
+            "outputFile": "com.jimmy.myrecipeapp-mergeDebugResources-51:/values-te/values-te.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Jimmy\\.gradle\\caches\\8.9\\transforms\\4dffeb0ef8be60f3b0f67aecf35a1eb6\\transformed\\ui-release\\res\\values-te\\values-te.xml",

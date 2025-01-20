@@ -28,8 +28,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Data Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -50,6 +50,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jimmy/AndroidStudioProjects/ShoppingList",
     "settings.editor.selected.configurable": "preferences.updates"
   }
 }]]></component>
