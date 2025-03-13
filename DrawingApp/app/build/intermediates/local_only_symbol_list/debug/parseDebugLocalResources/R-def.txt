@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_back
+drawable ic_brush
+drawable ic_color_palette
+drawable ic_erase
+drawable ic_export
+drawable ic_import
+drawable ic_large_brush
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_medium_brush
+drawable ic_medium_large
+drawable ic_medium_small_brush
+drawable ic_small_brush
+drawable ic_small_small_brush
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.DrawingApp
+xml backup_rules
+xml data_extraction_rules

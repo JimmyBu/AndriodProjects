@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_color_palette.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_color_palette.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jimmy.drawingapp-main-50:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.jimmy.drawingapp-main-50:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jimmy.drawingapp-main-50:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jimmy.drawingapp-main-50:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_large_brush.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_large_brush.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_brush.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_brush.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_small_small_brush.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_small_small_brush.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.jimmy.drawingapp-main-50:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_medium_large.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_medium_large.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_back.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.jimmy.drawingapp-main-50:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_import.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_import.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_medium_small_brush.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_medium_small_brush.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_small_brush.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_small_brush.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/xml_data_extraction_rules.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.jimmy.drawingapp-main-50:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_export.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_export.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_medium_brush.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_medium_brush.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/xml_backup_rules.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.jimmy.drawingapp-main-50:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.jimmy.drawingapp-main-50:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.jimmy.drawingapp-main-50:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jimmy.drawingapp-debug-48:/drawable_ic_erase.xml.flat",
+        "source": "com.jimmy.drawingapp-main-50:/drawable/ic_erase.xml"
+    }
+]
