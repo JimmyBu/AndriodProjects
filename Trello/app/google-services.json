@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073561265813",
+    "project_id": "boardify-f6375",
+    "storage_bucket": "boardify-f6375.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073561265813:android:5deee0b7969c96bf06dd9c",
+        "android_client_info": {
+          "package_name": "com.jimmy.trello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAliy_sj9SMcd3PG3JL6vmPQGWJiWOtStI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

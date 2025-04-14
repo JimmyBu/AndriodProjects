@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/drawable_boardify.png.flat",
+        "source": "com.jimmy.trello.app-main-69:/drawable/boardify.png"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.jimmy.trello.app-main-69:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.jimmy.trello.app-main-69:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.jimmy.trello.app-main-69:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jimmy.trello.app-main-69:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.jimmy.trello.app-main-69:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.jimmy.trello.app-main-69:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.jimmy.trello.app-main-69:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/xml_data_extraction_rules.xml.flat",
+        "source": "com.jimmy.trello.app-main-69:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.jimmy.trello.app-main-69:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/xml_backup_rules.xml.flat",
+        "source": "com.jimmy.trello.app-main-69:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/font_kopikoo.otf.flat",
+        "source": "com.jimmy.trello.app-main-69:/font/kopikoo.otf"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.jimmy.trello.app-main-69:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jimmy.trello.app-main-69:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/drawable_ic_task_image.png.flat",
+        "source": "com.jimmy.trello.app-main-69:/drawable/ic_task_image.png"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jimmy.trello.app-main-69:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.jimmy.trello.app-main-69:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.jimmy.trello.app-main-69:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jimmy.trello.app-debug-67:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.jimmy.trello.app-main-69:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]
